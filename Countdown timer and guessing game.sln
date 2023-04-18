@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Countdown timer and guessing game", "Countdown timer and guessing game.pyproj", "{44331035-C69F-4912-90B6-386CC2FA7551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44331035-C69F-4912-90B6-386CC2FA7551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44331035-C69F-4912-90B6-386CC2FA7551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A08AD215-CCE0-4AB1-BA02-F1ABF6214495}
+	EndGlobalSection
+EndGlobal
